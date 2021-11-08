@@ -19,6 +19,7 @@ void traverse(){
     } 
   } 
 } 
+
 void insertAtFront(){
   int data; 
   struct node* temp; 
